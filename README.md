@@ -38,23 +38,6 @@
 
 ---
 
-<!-- GitHub Profile Stats -->
-![Stars](https://img.shields.io/github/stars/your-username/your-repo?style=flat&color=yellow)
-![Forks](https://img.shields.io/github/forks/your-username/your-repo?style=flat&color=lightgreen)
-![Last Commit](https://img.shields.io/github/last-commit/your-username/your-repo?color=red)
-
-<!-- Language -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-<!-- Tools -->
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-<!-- License -->
-![License](https://img.shields.io/github/license/your-username/your-repo)
-
-
 ## 📊 GitHub Stats & Activity
 
 <table align="center">
