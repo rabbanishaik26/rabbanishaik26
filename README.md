@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=4DC3FA&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Aspiring+Data+Analyst;AI+%7C+Web+Dev+%7C+Cloud+Explorer;Turning+Data+into+Decisions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=2000&color=4DC3FA&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Aspiring+Data+Analyst;AI+%7C+Web+Dev+%7C+Cloud+Explorer;Turning+Data+into+Decisions" />
 </p>
 
 ---
@@ -41,13 +41,13 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rabbanishaik26&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbanishaik26&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rabbanishaik26&show_icons=true&hide_border=true&count_private=true&bg_color=ADA3FF&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbanishaik26&hide_border=true&background=ADA3FF&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&sideNums=ffffff" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbanishaik26&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabbanishaik26&theme=tokyo-night&hide_border=true&area=true" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbanishaik26&layout=compact&hide_border=true&bg_color=ADA3FF&title_color=ffffff&text_color=ffffff" width="45%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabbanishaik26&hide_border=true&bg_color=ADA3FF&title_color=ffffff&color=ffffff&line=ffffff&point=ffffff&area=true" width="90%" />
 </p>
 
 ---
