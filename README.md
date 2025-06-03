@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Hi%20I'm%20Rabbani%20Shaik&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=250&section=header&text=Hi%20I'm%20Rabbani%20Shaik&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rabbanishaik26&theme=react&show_icons=true&hide_border=true&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rabbanishaik26&t&show_icons=true&hide_border=true&count_private=true" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbanishaik26&theme=react&hide_border=true" width="45%" />
 </p>
 
@@ -74,5 +74,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer"/>
 </p>
