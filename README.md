@@ -40,32 +40,24 @@
 
 ## 📊 GitHub Stats & Activity
 
-<div align="center">
-
-<!-- Row 1 -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=rabbanishaik26&show_icons=true&hide_border=true&count_private=true&bg_color=ADA3FF&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="430" style="max-width: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 10px;" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbanishaik26&hide_border=true&background=ADA3FF&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&sideNums=ffffff" width="430" style="max-width: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 10px;" />
-
-</div>
-
-<br/>
-
-<!-- Row 2 -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbanishaik26&layout=compact&hide_border=true&bg_color=ADA3FF&title_color=ffffff&text_color=ffffff" width="430" style="max-width: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 10px;" />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabbanishaik26&hide_border=true&bg_color=ADA3FF&title_color=ffffff&color=ffffff&line=ffffff&point=ffffff&area=true" width="430" style="max-width: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 10px;" />
-
-</div>
-
-</div>
-
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=rabbanishaik26&show_icons=true&hide_border=true&count_private=true&bg_color=ADA3FF&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="95%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbanishaik26&hide_border=true&background=ADA3FF&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&sideNums=ffffff" width="95%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbanishaik26&layout=compact&hide_border=true&bg_color=ADA3FF&title_color=ffffff&text_color=ffffff" width="95%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabbanishaik26&hide_border=true&bg_color=ADA3FF&title_color=ffffff&color=ffffff&line=ffffff&point=ffffff&area=true" width="95%" />
+    </td>
+  </tr>
 </table>
-
 
 
 ---
