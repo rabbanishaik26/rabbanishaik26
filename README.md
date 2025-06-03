@@ -8,11 +8,11 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 <span style="color:#00BFFF">About Me</span>
 
-- 🎓 Master's in Computer Science @ University of Dayton (2023–2025)
-- 🔍 Exploring roles in Data Analytics, AI/ML, Web Development, and Cloud
-- 🚀 Passionate about solving real-world problems using Python, SQL, and intelligent systems
+- 🎓 <span style="color:#FF69B4">Master's in Computer Science</span> @ <span style="color:#FFD700">University of Dayton</span> (2023–2025)
+- 🔍 Exploring roles in <span style="color:#7CFC00">Data Analytics</span>, <span style="color:#FF8C00">AI/ML</span>, <span style="color:#1E90FF">Web Development</span>, and <span style="color:#9932CC">Cloud</span>
+- 🚀 Passionate about solving real-world problems using <span style="color:#87CEEB">Python</span>, <span style="color:#4682B4">SQL</span>, and intelligent systems
 - 🧠 Love transforming raw data into meaningful insights and intuitive dashboards
 - 🌐 Open to internships, freelance, or collaborative projects
 
