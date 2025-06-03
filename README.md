@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=250&section=header&text=👋%20Hi,%20I'm%20Rabbani%20Shaik&fontSize=40&fontColor=ffffff"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=250&section=header&text=Hi,%20I'm%20Rabbani%20Shaik&fontSize=40&fontColor=ffffff"/>
+</p>
+
 
 
 <p align="center">
