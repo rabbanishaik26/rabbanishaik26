@@ -82,7 +82,7 @@
 - ✨ Contribute to open-source data science projects
 
 ---
-![snake gif](https://github.com/rabbanishaik26/rabbanishaik26/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 📬 Let's Connect
 
@@ -93,3 +93,7 @@
 ---
 
 ⭐ *Thanks for stopping by! Let’s build something amazing together.*
+## 🐍 Contribution Snake
+
+![GitHub Snake Light](https://raw.githubusercontent.com/rabbanishaik26/rabbanishaik26/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/rabbanishaik26/rabbanishaik26/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
