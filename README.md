@@ -37,7 +37,6 @@
 | [Portfolio Website](#) | Responsive developer portfolio with custom design | HTML, CSS, JS |
 
 ---
-
 ## 📊 GitHub Stats & Activity
 
 <table align="center">
@@ -51,14 +50,14 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabbanishaik26&hide_border=true&bg_color=ADA3FF&title_color=ffffff&color=ffffff&line=ffffff&point=ffffff&area=true" width="95%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbanishaik26&layout=compact&hide_border=true&bg_color=ADA3FF&title_color=ffffff&text_color=ffffff" width="95%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbanishaik26&layout=compact&hide_border=true&bg_color=ADA3FF&title_color=ffffff&text_color=ffffff" width="95%" />
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabbanishaik26&hide_border=true&bg_color=ADA3FF&title_color=ffffff&color=ffffff&line=ffffff&point=ffffff&area=true" width="95%" />
     </td>
   </tr>
 </table>
+
 
 
 ---
