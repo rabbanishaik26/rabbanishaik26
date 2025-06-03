@@ -8,9 +8,12 @@
 
 ---
 <!-- Profile Views Badge -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=rabbanishaik26&label=👀%20Profile%20Views&color=6C63FF&style=flat-square" alt="Profile views badge" />
+<p align="center">
+  <a href="https://github.com/rabbanishaik26">
+    <img src="https://komarev.com/ghpvc/?username=rabbanishaik26&label=👀%20Profile%20Views&color=6C63FF&style=flat-square" alt="profile view counter" />
+  </a>
 </p>
+
 
 
 ### 👨‍💻 <span style="color:#00BFFF">About Me</span>
