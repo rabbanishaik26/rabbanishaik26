@@ -1,99 +1,78 @@
-# 👋 Hey, I'm Rabbani Shaik
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Hi%20I'm%20Rabbani%20Shaik&fontSize=40&fontColor=ffffff"/>
+</p>
 
-🎓 Master’s in Computer Science @ University of Dayton (2023–2025)  
-💻 Tech Explorer | 🧠 Data Analyst | 🤖 AI/ML Enthusiast | 🌐 Web Developer  
-🚀 Passionate about solving real-world problems with clean code, smart insights, and intuitive design.
-
----
-
-## 💼 What I Do
-
-- 📊 **Data Analytics:** Python • SQL • Power BI • Tableau • Excel  
-- 🤖 **AI/ML:** Machine Learning • NLP • Model Training & Evaluation  
-- 🌐 **Web Development:** Django • HTML/CSS • JavaScript • React (learning)  
-- ☁️ **Cloud & DevOps:** AWS (EC2, S3, Lambda) • GitHub • CI/CD basics  
-- 📁 **Project Management:** Agile • UAT • Team collaboration
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Data+Analyst+%7C+AI+%7C+Web+Dev+%7C+Cloud;Driven+by+data+and+code+to+build+impactful+solutions"/>
+</p>
 
 ---
 
-## 🔧 Tools & Technologies
+### 👨‍💻 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-blueviolet?style=flat)
-![ETL](https://img.shields.io/badge/ETL-0052CC?style=flat)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-orange?style=flat)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-29B6F6?style=flat)
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat)
-![UAT](https://img.shields.io/badge/UAT-FF5733?style=flat)
-
+- 🎓 Master's in Computer Science @ University of Dayton (2023–2025)
+- 🔍 Exploring roles in Data Analytics, AI/ML, Web Development, and Cloud
+- 🚀 Passionate about solving real-world problems using Python, SQL, and intelligent systems
+- 🧠 Love transforming raw data into meaningful insights and intuitive dashboards
+- 🌐 Open to internships, freelance, or collaborative projects
 
 ---
 
-## 📂 Projects
+### 🔧 Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,r,react,django,spring,tailwind,bootstrap,git,github,mysql,postgresql,mongodb,aws,azure,vscode,pycharm,figma,linux" />
+</p>
+
+---
+
+### 🚀 Featured Projects
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| **[Banking Dashboard](#)** | Analyzed bank deposit & loan trends using DAX and Power BI | Python, SQL, Power BI |
-| **[Event Manager](#)** | Django web app for event scheduling, login, and permissions | Django, HTML/CSS |
-| **[Speech Recognition](#)** | NLP-based real-time speech-to-text system | Python, NLP |
-| **[AWS Bot Simulations](#)** | Simulated claim processing using RPA and AWS EC2 + S3 | AWS, Python |
-| **[Portfolio Website](#)** | Personal responsive portfolio with contact form | HTML, CSS, JavaScript |
+| [Banking Dashboard](#) | Interactive dashboard for deposits, loans & categories using DAX | Power BI, Python, SQL |
+| [Event Management System](#) | Django-based role management for event scheduling | Django, HTML, SQLite |
+| [Speech Recognition System](#) | Real-time speech-to-text with NLP and noise filtering | Python, NLP |
+| [AWS Claim Automation](#) | Simulated RPA-based system hosted on EC2 | AWS, Python, Selenium |
+| [Portfolio Website](#) | Responsive developer portfolio with custom design | HTML, CSS, JS |
 
 ---
 
-### 📈 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rabbanishaik26&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbanishaik26&theme=radical" alt="GitHub Streak" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbanishaik26&layout=compact&theme=radical" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rabbanishaik26&theme=react&show_icons=true&hide_border=true&count_private=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbanishaik26&theme=react&hide_border=true" width="45%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbanishaik26&layout=compact&theme=react&hide_border=true" width="45%" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rabbanishaik26&theme=react-dark&hide_border=true&area=true" width="90%" />
+</p>
 
 ---
 
-## 🎯 Current Goals
-
-- 🔄 Deepen AI/ML hands-on experience (projects & Kaggle)
-- 📚 Learn advanced front-end (React.js)
-- ☁️ Prepare for AWS Certified Data Analytics Specialty
-- ✨ Contribute to open-source data science projects
-
----
-
-
-## 📬 Let's Connect
-
-- ✉️ [Email](mailto:rabbanishaik.sb@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/rabbani-shaik-887516207)  
-- 🌐 [GitHub](https://github.com/rabbanishaik26)
-
----
-
-⭐ *Thanks for stopping by! Let’s build something amazing together.*
 ## 🐍 Contribution Snake
 
-![GitHub Snake Light](https://raw.githubusercontent.com/rabbanishaik26/rabbanishaik26/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/rabbanishaik26/rabbanishaik26/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rabbanishaik26/rabbanishaik26/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/rabbanishaik26/rabbanishaik26/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:rabbanishaik.sb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rabbani-shaik-887516207/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/rabbanishaik26"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  ⚡ *Thanks for stopping by! Let’s build something amazing together.*
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"/>
+</p>
