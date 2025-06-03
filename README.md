@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=250&section=header&text=Hi,%20I'm%20Rabbani%20Shaik&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=250&section=header&text=👋%20Hi,%20I'm%20Rabbani%20Shaik&fontSize=40&fontColor=ffffff"/>
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=2000&color=4DC3FA&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Aspiring+Data+Analyst;AI+%7C+Web+Dev+%7C+Cloud+Explorer;Turning+Data+into+Decisions" />
