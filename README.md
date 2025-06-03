@@ -40,15 +40,25 @@
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rabbanishaik26&show_icons=true&hide_border=true&count_private=true&bg_color=ADA3FF&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="90%" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbanishaik26&hide_border=true&background=ADA3FF&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&sideNums=ffffff" width="90%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbanishaik26&layout=compact&hide_border=true&bg_color=ADA3FF&title_color=ffffff&text_color=ffffff" width="90%" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabbanishaik26&hide_border=true&bg_color=ADA3FF&title_color=ffffff&color=ffffff&line=ffffff&point=ffffff&area=true" width="90%" />
-</p>
+<table align="center">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=rabbanishaik26&show_icons=true&hide_border=true&count_private=true&bg_color=ADA3FF&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbanishaik26&hide_border=true&background=ADA3FF&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&sideNums=ffffff" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbanishaik26&layout=compact&hide_border=true&bg_color=ADA3FF&title_color=ffffff&text_color=ffffff" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabbanishaik26&hide_border=true&bg_color=ADA3FF&title_color=ffffff&color=ffffff&line=ffffff&point=ffffff&area=true" width="100%"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
