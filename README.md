@@ -7,6 +7,9 @@
 </p>
 
 ---
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=rabbanishaik26&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> 
+</p>
 
 ### 👨‍💻 <span style="color:#00BFFF">About Me</span>
 
