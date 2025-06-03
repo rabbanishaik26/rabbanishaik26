@@ -63,10 +63,14 @@
 
 ---
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats & Activity
 
-![Rabbani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabbanishaik26&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabbanishaik26&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rabbanishaik26&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbanishaik26&theme=radical" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbanishaik26&layout=compact&theme=radical" alt="Top Languages" height="200"/>
+</p>
+
 
 ---
 
