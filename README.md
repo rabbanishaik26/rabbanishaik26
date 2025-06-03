@@ -7,9 +7,11 @@
 </p>
 
 ---
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=rabbanishaik26&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> 
+<!-- Profile Views Badge -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=rabbanishaik26&label=👀%20Profile%20Views&color=6C63FF&style=flat-square" alt="Profile views badge" />
 </p>
+
 
 ### 👨‍💻 <span style="color:#00BFFF">About Me</span>
 
